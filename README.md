@@ -16,8 +16,7 @@ The contents of file should be
     name: "Your Name"
     branch: "Your Branch"
     year: "Your current year"
-    experience: "Your experience about today's workshops and Hacktoberfest "
-    print("Print the above information in any sequece using the above variables")
+    print("Print your experince of Hactoberfest event using above information in any sequece using all the above variables")
 }
 ```
 - ```Push``` the changes to your repository
