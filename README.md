@@ -1,7 +1,7 @@
 # Hacktoberfest-JKLU
 Repository for beginners want to learn how to do first pull request.
 ## Guide
--```Star``` this repository.
+- ```Star``` this repository.
 - ```Fork``` this repository.
 ```
 add a new file to the data folder of any format
