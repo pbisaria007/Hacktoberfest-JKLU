@@ -23,8 +23,6 @@ The contents of file should be
 - Now make a ```Pull Requet``` from your repository.
 
 > Congratulation on your first open souce contribution
->THANK YOU
-its a great work
-by me
+
 
 
