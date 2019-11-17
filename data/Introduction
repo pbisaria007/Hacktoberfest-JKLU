@@ -1,0 +1,5 @@
+name="Bhanu Soni"
+year="1st"
+organisation="JKLU"
+branch="CSE"
+print("My name is ",name," I am in ",year,"and my college name is ",organisation,"and My branch is ",branch)

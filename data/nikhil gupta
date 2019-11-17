@@ -1,0 +1,4 @@
+name = "nikhil gupta"
+class  = "frist year"
+branch = "cse"
+print("Hy this is ",name,"class",class"branch",branch)
