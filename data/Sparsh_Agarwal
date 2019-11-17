@@ -1,4 +1,4 @@
-name = "Sparsh Agarwal"
+name = "Sparal"
 branch = "CSE"
 year = 2019
 print("My Name is",name,"and I am a student pursuing",branch,"starting",year,"and I am really exicited to learn about Git and GitHub through this chance I got from HacktoberFest.")
