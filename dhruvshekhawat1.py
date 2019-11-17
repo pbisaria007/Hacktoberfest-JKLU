@@ -1,4 +1,8 @@
 name="Dhruv Shekhawat"
 year="First"
 branch="Computer Science"
-pnjbbik
+
+print("qwertykeyboard")
+print("This is PYTHON")
+print("Hactober fest organized at JkLu")
+
