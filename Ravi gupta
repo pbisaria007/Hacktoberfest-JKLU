@@ -1,0 +1,6 @@
+{
+    name: "Ravi Gupta"
+    branch: "CS"
+    year: "2021"
+    print("Print your experince of Hactoberfest event using above information in any sequece using all the above variables")
+}
